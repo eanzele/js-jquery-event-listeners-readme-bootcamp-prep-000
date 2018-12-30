@@ -11,5 +11,7 @@ function getIt() {
   });
 }
 function frameIt() {
-  $('img').on('load')
+  $('img').on('load', function() {
+    
+  })
 }
