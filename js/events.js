@@ -6,7 +6,4 @@ function getIt() {
 
 
 // call functions here
-$('p').on("click" function(){
-    alert("Hey!");
-});
 
