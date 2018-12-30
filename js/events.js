@@ -10,3 +10,6 @@ function getIt() {
     alert("Hey!");
   });
 }
+function frameIt() {
+  $
+}
