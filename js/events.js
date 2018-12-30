@@ -5,4 +5,6 @@ $(document).ready(function(){
   submitIt()
 });
 
-function getIt
+function getIt() {
+  $('p').on
+}
