@@ -1,12 +1,12 @@
 $(document).ready(function(){
-  getIt()
-  frameIt()
-  pressIt()
-  submitIt()
+  getIt();
+  frameIt();
+  pressIt();
+  submitIt();
 });
 
 function getIt() {
   $('p').on("click", function() {
-    alert("Hey!")
-  }0
+    alert("Hey!");
+  });
 }
