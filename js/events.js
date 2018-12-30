@@ -6,5 +6,7 @@ function getIt() {
 
 $(document).ready(function(){
 // call functions here
-  $('p').on("click"("Hey!");
+  $('p').on("click" function() {
+    
+  };
 });
